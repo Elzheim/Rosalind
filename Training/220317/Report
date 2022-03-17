@@ -1,0 +1,7 @@
+토끼가 무한정 살아남는 일반적인 피보나치가 아닌 토끼가 수명을 다해 죽는 일반적인 상황에서의 피보나치를 구현 (rosalind_fibd)
+DNA 코드에서 G 또는 C의 수량을 체크하는 코드를 구현 (rosalind_gc)
+poing mutation을 측정하는 hamming distance를 구하는 코드를 구현(rosalind_hamm)
+
+rosalind_fibd를 코딩할때는 어떻게 숫자가 감소하는 것을 기록해야 하는가 고민하다가 그럴 필요가 없다는 것에 주목
+rosalind_gc에서는 단순히 G와 C를 세는 것이므로 문제가 없다.
+rosalind_hamm에서는 두개의 dna코드를 zip을 통해서 묶은 다음 비교하였다. 
