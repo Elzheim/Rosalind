@@ -1,7 +1,0 @@
-iprb, perm, prot를 풀이.
-
-iprb를 풀면서 확률 문제를 대하는 법에 대해서 공부. https://stackoverflow.com/questions/25119106/rosalind-mendels-first-law-iprb를 참고
-
-perm는 단순한 숫자 놀이에 가까운 팩토리얼과 숫자의 수열에 대한 풀이로 해결
-
-prot는 아미노산을 딕셔너리로 변환하여 코돈단위로 변환해서 풀이.
